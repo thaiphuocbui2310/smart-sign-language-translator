@@ -69,7 +69,7 @@ SCAPA is a student technology competition organized at Danang University of Scie
 ## 👨‍💻 Author
 
 **Bui Thai Phuoc**  
-Control and Automation Engineering, DNUT  
+Control and Automation Engineering, DUT  
 📧 thaiphuocbui2310@gmail.com  
 🔗 [linkedin.com/in/thaiphuocbui](https://linkedin.com/in/thaiphuocbui)  
 🐙 [github.com/thaiphuocbui2310](https://github.com/thaiphuocbui2310)
